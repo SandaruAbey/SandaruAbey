@@ -4,9 +4,9 @@
   </div>
 
 
-<h1 align="center">👋, I'm Heshan Jeewantha</h1>
+<h1 align="center">👋, I'm Sandaru Abey</h1>
 
-<h3 align="center">Software engeneering undergraduate </h3>
+<h3 align="center">Software engeneering undergraduate at SLIIT </h3>
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=heshanjeewantha&label=Profile%20views&color=0e75b6&style=flat" alt="heshanjeewantha" /> </p>
 
@@ -23,14 +23,11 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
--🌱 I’m currently learning *MERN*
-
-- 💬 Ask me about *Java,MERN*
-
-- 📫 How to reach me *heshanjeewantha@gmail.com*
-
-- ⚡ Fun fact *call me as Hesh*
-  
+👋 Hi, I’m @SandaruAbey, an undergraduate student passionate about software engineering and its endless possibilities.
+👀 I’m interested in exploring the depths of programming languages such as Java, C++, C, JavaScript, Node.js, and React, and leveraging them to build robust and efficient software solutions.
+🌱 I’m currently learning fundamental computer science concepts, algorithms, and honing my coding skills through coursework and personal projects.
+💞️ I’m eager to collaborate on coding challenges, hackathons, or projects that allow me to apply my skills and learn from others in the field.
+📫 How to reach me? Feel free to connect with me via email at sandaruabeykoon@gmail.com. Let's explore the fascinating world of software engineering together!
 </td>
 <td width="50%" align="center">
 
