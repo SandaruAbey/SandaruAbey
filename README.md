@@ -13,7 +13,7 @@
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-  ```javascript
+  javascript
   const sandaru = {
     education: "Software Engineering @ SLIIT",
     role: "Intern Software Engineer @ Procons Infotech",
@@ -27,7 +27,7 @@
     currentFocus: "Building scalable full-stack applications",
     funFact: "I debug with coffee ☕"
   };
-  ```
+  
 </div>
 
 <!-- Tech Stack Animation -->
