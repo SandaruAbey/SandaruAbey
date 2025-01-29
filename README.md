@@ -1,51 +1,81 @@
-<h1 align="center">👋 Hi, I'm Sandaru Abey</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=31A8FF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineering+Student;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  
+  <!-- Custom SVG Header Banner -->
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sandaru%20Abey&fontSize=50&fontAlignY=35&animation=twinkling&desc=Software%20Engineering%20Student%20|%20Full%20Stack%20Developer&descAlignY=50)
+
+  <!-- Animated Greeting -->
+  <h3>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my digital workspace!
+  </h3>
 </div>
 
+<!-- About Me Section with Custom Design -->
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+  ```javascript
+  const sandaru = {
+    education: "Software Engineering @ SLIIT",
+    role: "Intern Software Engineer @ Procons Infotech",
+    code: ["JavaScript", "Java", "C++", "Python"],
+    technologies: {
+        frontEnd: ["React", "Next.js", "Tailwind CSS"],
+        backEnd: ["Node.js", "Express", "Spring Boot"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        tools: ["Git", "Docker", "AWS"],
+    },
+    currentFocus: "Building scalable full-stack applications",
+    funFact: "I debug with coffee ☕"
+  };
+  ```
+</div>
+
+<!-- Tech Stack Animation -->
+<h2 align="center">🚀 Technologies & Tools</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandaruabey&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://skillicons.dev/icons?i=js,java,cpp,py,react,nextjs,nodejs,express,spring,mongodb,mysql,postgresql,git,docker,aws,vscode&perline=8" />
 </p>
 
-## 🎓 About Me
-
-- 🎯 Software Engineering Undergraduate at SLIIT
-- 💼 Intern Software Engineer at Procons Infotech
-- 🌱 Currently exploring **Java, C++, JavaScript, Node.js, and React**
-- 💡 Passionate about building robust and efficient software solutions
-
-## 🛠️ Tech Stack
+<!-- GitHub Stats with Custom Theme -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandaruabey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandaruabey&theme=radical&hide_border=true&background=0D1117" />
 </p>
 
-## 📊 GitHub Stats
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandaruabey&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
 
+<!-- Contribution Snake Animation -->
+<img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" />
+
+<!-- Profile Trophy -->
+<h2 align="center">🏆 GitHub Profile Trophy</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandaruabey&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sandaruabey&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
+<!-- Connect with Me -->
+<h2 align="center">🤝 Connect with Me</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandaruabey&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-## 🤝 Let's Connect!
-
-<p align="center">
+  <a href="https://linkedin.com/in/sandaruabey">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:sandaru.abey@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sandaruabey">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/sandaruabey">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
-<p align="center">💡 <i>Let's explore the fascinating world of software engineering together!</i></p>
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandaruabey&style=for-the-badge&color=brightgreen" />
+</div>
