@@ -11,7 +11,7 @@
 
 <!-- About Me Section with Custom Design -->
 <div align="center">
-  <img align="right" alt="Coding" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  <img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```javascript
 const sandaru = {
