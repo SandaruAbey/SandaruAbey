@@ -27,7 +27,7 @@ const sandaru = {
     currentFocus: "Building scalable full-stack applications",
     funFact: "I debug with coffee ☕"
 }; 
-  
+  ```
 </div>
 
 <!-- Tech Stack Animation -->
@@ -78,4 +78,4 @@ const sandaru = {
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sandaruabey&style=for-the-badge&color=brightgreen" />
-</div>```
+</div>
