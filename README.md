@@ -17,10 +17,10 @@
 const sandaru = {
     education: "Software Engineering @ SLIIT",
     role: "Intern Software Engineer @ Procons Infotech",
-    code: ["JavaScript", "Java", "C++", "Python"],
+    code: ["JavaScript", "Java", "C++", "Python", "PHP"],
     technologies: {
-        frontEnd: ["React", "Next.js", "Tailwind CSS"],
-        backEnd: ["Node.js", "Express", "Spring Boot"],
+        frontEnd: ["React", "Next.js", "Tailwind CSS","Boostrap"],
+        backEnd: ["Node.js", "Express", "Laravel"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
         tools: ["Git", "Docker", "AWS"],
     },
@@ -33,8 +33,13 @@ const sandaru = {
 <!-- Tech Stack Animation -->
 <h2 align="center">🚀 Technologies & Tools</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,java,cpp,py,react,nextjs,nodejs,express,mongodb,mysql,git,docker,aws,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,java,py,laravel,react,nodejs,express,mongodb,mysql,git,docker,aws,tensorflow,pytorch,vscode&perline=8" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-ML%20Library-orange?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
 
 <!-- GitHub Stats with Custom Theme -->
 <h2 align="center">📊 GitHub Analytics</h2>
