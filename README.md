@@ -50,16 +50,16 @@ const sandaru = {
 </p>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SandaruAbey&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandaruAbey&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/> -->
 
 <!-- Contribution Snake Animation -->
 <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" width="100%" />
 
 <!-- Profile Trophy -->
-<h2 align="center">🏆 GitHub Profile Trophy</h2>
+<!-- <h2 align="center">🏆 GitHub Profile Trophy</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SandaruAbey&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
+</p> -->
 
 <!-- Connect with Me -->
 <h2 align="center">🤝 Connect with Me</h2>
