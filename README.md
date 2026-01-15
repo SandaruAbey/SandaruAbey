@@ -85,5 +85,3 @@ const sandaru = {
   <img src="https://komarev.com/ghpvc/?username=SandaruAbey&style=for-the-badge&color=brightgreen" />
 </div>
 
-
-This is my github readme file. i want to redesign for modern look. use orange colors and beautiful google fonts.
