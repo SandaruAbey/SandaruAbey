@@ -1,123 +1,126 @@
 
+<!-- Banner -->
 <div align="center">
-
-  <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D65A31&height=250&section=header&text=Sandaru%20Abey&fontSize=80&fontAlignY=35&desc=AI%20Developer%20%7C%20Software%20Engineer&descAlignY=60&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeWidth=0" width="100%" alt="header" />
-
-  <!-- Dynamic Typing Intro -->
-  <h3>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=D65A31&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Full+Stack+Development;Exploring+Computer+Vision;Debugging+with+Coffee+%E2%98%95" alt="Typing SVG" />
-    </a>
-  </h3>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,D65A31,0d1117&height=200&section=header&text=SANDARU%20ABEY&fontSize=70&fontAlignY=50&desc=AI%20/%20ML%20ENGINEER&descAlignY=70&animation=twinkling&fontColor=ffffff&stroke=D65A31&strokeWidth=2" width="100%" alt="header" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVwdXAzbG15bXI2aW55YmE4aGJqcnZ6Z21iMmZ6bmZ5cDJ5bW5oZiZlcD12MV9zdGlja2VyX3NlYXJjaCZjdD1z/L0NwK0z89a7L3TcD4V/giphy.gif">
-
-  <!-- Python Code Snippet Presentation -->
-  <div align="left">
-    <br/>
-    <br/>
-    
-```python
-class AI_Engineer:
-    def __init__(self):
-        self.name = "Sandaru Abey"
-        self.role = "Intern Software Engineer @ Procons Infotech"
-        self.education = "Software Engineering @ SLIIT"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "Java", "C++"],
-            "ai_ml": ["TensorFlow", "PyTorch", "YOLO", "Scikit-learn", "OpenCV"],
-            "backend": ["Node.js", "Express", "Laravel", "FastAPI"],
-            "database": ["MongoDB", "PostgreSQL", "MySQL"],
-            "cloud": ["AWS", "Docker", "Git"]
-        }
-
-    def current_mission(self):
-        return "Bridging the gap between Software Engineering and AI"
-
-me = AI_Engineer()
+<!-- Main Dashboard Table -->
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Left Column: Identity & Bio -->
+    <td width="55%" valign="top">
+      <h2>🖥️ System Identity</h2>
+      <br />
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=20&pause=1000&color=D65A31&width=435&lines=Initializing+AI+Protocols...;Loading+Neural+Networks...;Target%3A+Full+Stack+Scalability;Subject%3A+Sandaru+Abey" alt="Typing SVG" />
+      </a>
+      <br/>
+      <br/>
+      
+```json
+{
+  "status": "Online",
+  "system": "Sandaru_Abey_v2.0",
+  "role": "AI Engineer & Developer",
+  "location": "Procons Infotech (Intern)",
+  "education": "SLIIT",
+  "modules": [
+    "Computer Vision",
+    "Deep Learning",
+    "Web Engineering"
+  ],
+  "mission": "Automating the future."
+}
 ```
-  </div>
+    </td>
+    
+    <!-- Right Column: Visual -->
+    <td width="45%" valign="center" align="center">
+      <br/>
+      <!-- Sci-Fi/AI GIF -->
+      <img src="https://i.pinimg.com/originals/e0/93/78/e093781934e62e15bc99bdcf90c496dd.gif" width="90%" alt="AI Animation" style="border-radius: 10px; border: 2px solid #D65A31;" />
+    </td>
+  </tr>
+</table>
+
+<!-- Tech Stack | Circuit Board Style -->
+<h2 align="center">⚡ Neural Pathways & Tools</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/CORE-000000?style=for-the-badge&logo=atom&logoColor=D65A31" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+         <img src="https://img.shields.io/badge/BRAIN-000000?style=for-the-badge&logo=openai&logoColor=D65A31" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+         <img src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=react&logoColor=D65A31" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      </td>
+    </tr>
+      <tr>
+      <td align="center" width="120">
+         <img src="https://img.shields.io/badge/INFRA-000000?style=for-the-badge&logo=docker&logoColor=D65A31" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
-<br/>
 
-<!-- Tech Stack Section -->
-<h2 align="center">🛠️ Technical Arsenal</h2>
-
+<!-- Analytics Dashboard -->
+<h2 align="center">📊 Data Stream</h2>
 <div align="center">
-
-<!-- AI & ML -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <a href="https://github.com/SandaruAbey">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SandaruAbey&bg_color=0D1117&color=D65A31&line=D65A31&point=ffffff&area=true&hide_border=true" />
+  </a>
+</div>
 <br/>
-
-<!-- Frontend & Backend -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<br/>
-
-<!-- Database & Tools -->
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SandaruAbey&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&title_color=D65A31&icon_color=D65A31&border_color=D65A31&hide_border=true&hide_rank=false" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruAbey&theme=black-ice&background=0D1117&ring=D65A31&fire=D65A31&currStreakLabel=D65A31&hide_border=true" />
 </div>
 
 <br/>
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
+<!-- Footer -->
 <div align="center">
-  <p>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SandaruAbey&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&title_color=D65A31&icon_color=D65A31&border_color=D65A31&hide_border=true" alt="SandaruAbey's Stats" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruAbey&theme=black-ice&background=0D1117&ring=D65A31&fire=D65A31&currStreakLabel=D65A31&hide_border=true" alt="Streak Stats" />
-  </p>
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
-</div>
-
-<br/>
-
-<!-- Footer / Connect -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D65A31&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,D65A31&height=100&section=footer" width="100%"/>
+  <br/>
   
-  <h3>🤝 Connect with Me</h3>
-  <a href="https://www.linkedin.com/in/sandaru-abeykoon-b2845720a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/sandaru-abeykoon-b2845720a">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sandaruabeykoon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/SandaruAbey" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <br/>
-  <br/>
-  
-  <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=SandaruAbey&style=flat-square&color=D65A31&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
