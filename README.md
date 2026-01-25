@@ -21,8 +21,8 @@
 {
   "status": "Online",
   "system": "Sandaru_Abey_v2.0",
-  "role": "AI Engineer & Developer",
-  "location": "Procons Infotech (Intern)",
+  "role": "Software & AI Developer",
+  "location": "Procons Infotech ",
   "education": "SLIIT",
   "modules": [
     "Computer Vision",
