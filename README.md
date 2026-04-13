@@ -1,21 +1,6 @@
 
 <!-- Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect
-  &color=FF6900
-  &height=200
-  &section=header
-  &text=SANDARU%20ABEY
-  &fontSize=70
-  &fontAlignY=50
-  &desc=AI%20/%20ML%20ENGINEER
-  &descAlignY=70
-  &animation=twinkling
-  &fontColor=ffffff
-  &font=Outfit
-  &stroke=ffffff
-  &strokeWidth=2" width="100%" alt="header" />
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,D65A31,0d1117&height=200&section=header&text=SANDARU%20ABEY&fontSize=70&fontAlignY=50&desc=AI%20/%20ML%20ENGINEER&descAlignY=70&animation=twinkling&fontColor=ffffff&stroke=D65A31&strokeWidth=2" width="100%" alt="header" /> </div>
 <!-- Main Dashboard Table -->
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
