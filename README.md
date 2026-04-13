@@ -4,11 +4,11 @@
 <br/>
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&pause=1000&color=FF6208&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Building+scalable+architectures" alt="Typing SVG" style="margin-top: 100px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&pause=1000&color=F56831&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Web+Designer" alt="Typing SVG" style="margin-top: 100px;" />
 </a>
   <br/>
   <p align="center" style="font-size: 16px; color: #4b4b4b; max-width: 600px; margin: 0 auto;">
-    Hello! I'm an undergraduate at SLIIT and currently an Intern Software Engineer at Procons Infotech in Sri Lanka. I specialize in full-stack development, computer vision, and building secure, scalable architectures for modern applications.
+    Hello! I'm an Software Engineer at Procons Infotech in Sri Lanka. I specialize in full-stack development, computer vision, AI and building secure, scalable architectures for modern applications.
   </p>
   <br/>
 </div>
