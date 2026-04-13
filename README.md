@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQEPnwoBPeoqiA/profile-displaybackgroundimage-shrink_350_1400/B56Zh7DXuQHQAk-/0/1754411173338?e=1777507200&v=beta&t=-gv6WVthr2kHHpNZVe8Q_9ypZDeNWeZiCc2isL_ZFBU" width="100%" alt="Sandaru Abeykoon Banner" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);" />
 </div>
-
+<br/>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=FF8800&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Building+scalable+architectures" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=50&pause=1000&color=FF6208&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Building+scalable+architectures" alt="Typing SVG" style="margin-top: 100px;" />
+</a>
   <br/>
   <p align="center" style="font-size: 16px; color: #4b4b4b; max-width: 600px; margin: 0 auto;">
     Hello! I'm an undergraduate at SLIIT and currently an Intern Software Engineer at Procons Infotech in Sri Lanka. I specialize in full-stack development, computer vision, and building secure, scalable architectures for modern applications.
