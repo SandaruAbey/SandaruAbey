@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEPnwoBPeoqiA/profile-displaybackgroundimage-shrink_350_1400/B56Zh7DXuQHQAk-/0/1754411173338?e=1777507200&v=beta&t=-gv6WVthr2kHHpNZVe8Q_9ypZDeNWeZiCc2isL_ZFBU" width="100%" alt="Sandaru Abeykoon Banner" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEPnwoBPeoqiA/profile-displaybackgroundimage-shrink_350_1400/B56Zh7DXuQHQAk-/0/1754411173338?e=1779321600&v=beta&t=4ldB01xJo6sPA6JCMgic11wq5rsKuhoyha4xHll0ne4" width="100%" alt="Sandaru Abeykoon Banner" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);" />
 </div>
 <br/>
 <div align="center">
